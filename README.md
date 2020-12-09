@@ -2,7 +2,7 @@
 
 ---
 
-.[![Build status](https://github.com/akwilina/cyl/workflows/Build/badge.svg)](https://github.com/akwilina/cyl/actions)
+[![Build status](https://github.com/akwilina/cyl/workflows/Build/badge.svg)](https://github.com/akwilina/cyl/actions)
 
 ---
 
