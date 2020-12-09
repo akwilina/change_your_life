@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cyl
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
